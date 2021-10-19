@@ -1,4 +1,4 @@
-### Hi there 👋
+[!][Mir Ali Mobasheri's stats](https://github-readme-stats.vercel.app/api?username=Alimobasheri&show_icons=true&theme=merko&count_private=true)
 
 <!--
 **Alimobasheri/Alimobasheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
